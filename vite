@@ -1,0 +1,7 @@
+/
+├─ index.html
+├─ src/
+│  └─ App.tsx
+├─ src/main.tsx
+├─ package.json
+├─ netlify.toml
